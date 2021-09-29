@@ -16,3 +16,5 @@ checked github again. still nothing??
 made the mojito recipe for my last since i'm tired of typing haha. updated the index page. hokay. let's push the last of this to github.
 
 anyway this was a fun exercise in pages. i already knew a lot of the elements + how to work an absolute link but i didn't really know how to work with relative links. this helped loads. web dev is fun!
+
+QUACK quack quack
