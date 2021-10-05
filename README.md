@@ -9,7 +9,7 @@ ok whatever i'm going to make 2 more recipe pages and hope that my stuff makes i
 
 17:44
 woohoo just finished the mac and cheese page. forgot to add the steps heading haha. gonna go ahead and push the updated readme, index page, chickenskillet (i added a back to home link - not in official project description), and new mac and cheese page + image to github.
-just checked github. still hasn't upload. what the shit m8
+just checked github. still hasn't upload. what the heck m8
 
 17:56
 checked github again. still nothing??
@@ -17,4 +17,4 @@ made the mojito recipe for my last since i'm tired of typing haha. updated the i
 
 anyway this was a fun exercise in pages. i already knew a lot of the elements + how to work an absolute link but i didn't really know how to work with relative links. this helped loads. web dev is fun!
 
-QUACK quack quack
+UPDATE: finally figured out what was wrong. i forgot the "git push" command LOL
