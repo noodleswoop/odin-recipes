@@ -1,0 +1,69 @@
+/* odin recipes site css */
+
+/* WHOLE SITE */
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+ul,
+ol,
+p {
+    margin-left: 50px;
+}
+
+/* index page */
+
+.index {
+    background-color: #8bb2e1; 
+}
+
+.index h1 {
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 200px;
+}
+
+.indexlist {
+    text-align: center;
+    font-size: 25px;   
+}
+
+.indexlist li {
+    margin-bottom: 20px;
+}
+
+/* chicken skillet */
+
+.chickenskillet {
+    background-color: #E1BD8B;
+}
+
+/* mac and cheese */
+
+.mnc {
+    background-color: #EEE2D0;
+}
+
+/* mojito */
+
+.mojito {
+    background-color: #D0EED2;
+}
+
